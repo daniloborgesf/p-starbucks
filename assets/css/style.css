@@ -165,7 +165,7 @@ p {
     background-image: url('../img/f2.jpg');
     background-size: cover;
     background-position: cover;
-    height: 350px;
+    height: 700px;
 }
 
 .area1--img2 {
@@ -201,7 +201,7 @@ p {
     background-image: url('../img/f4.jpg');
     background-size: cover;
     background-position: cover;
-    height: 450px;
+    height: 650px;
 }
 
 .area2--img2 {
@@ -248,7 +248,7 @@ p {
 .area5 {
     background-image: url('../img/bg4.jpg');
     background-size: cover;
-    background-position: right;
+    background-position: center;
     height: 600px;
 }
 
